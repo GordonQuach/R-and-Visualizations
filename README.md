@@ -7,5 +7,5 @@ I was inspired to create an animated chart in R when I came across Keith McNulty
 
 This project helped build upon my R scripting skills, expose me to SQLite connections/interfacing with R, data modeling, and deeper exploration into parameters of various R libraries/functions using the console.
 
-Keith's Article: https://keith-mcnulty.medium.com/how-to-create-hans-roslings-famous-animated-bubble-chart-in-r-e89607dbf73a
+Keith's Article: https://levelup.gitconnected.com/how-to-create-hans-roslings-famous-animated-bubble-chart-in-r-e89607dbf73a
 Data Source: https://www.kaggle.com/datasets/hugomathien/soccer
